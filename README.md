@@ -11,8 +11,11 @@ Camille is the virtual concierge of *Maison Noisette*, a fictional French-Lebane
 
 It runs in a Gradio chat UI and is powered by the **OpenAI** API.
 
-🎥 **Demo video:** _add link_ · 🤗 **Live demo (Hugging Face Spaces):** _add link_
+## 🔗 Links
 
+- 🎥 **Demo video:** [Watch on YouTube](https://youtu.be/GTi9oyQgRJ4?si=0UjIICWgV2aLFbBp)
+- 🤗 **Live demo (Hugging Face Spaces):** [sambkttt/maison-noisette](https://huggingface.co/spaces/sambkttt/maison-noisette)
+- 
 ## How it works
 
 ```
